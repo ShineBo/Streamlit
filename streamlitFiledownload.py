@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 22 12:43:03 2024
-
-@author: nawchittoojune
-"""
 
 import streamlit as st
 from PIL import Image

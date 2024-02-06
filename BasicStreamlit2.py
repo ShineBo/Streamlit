@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 25 17:20:51 2023
-
-@author: nawchittoojune
-"""
 
 #Stream Basic Functions
 import streamlit as st
